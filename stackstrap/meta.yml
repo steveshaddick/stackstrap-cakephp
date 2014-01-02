@@ -1,0 +1,9 @@
+---
+template_name: "CakePHP"
+template_description:
+  Template for CakePHP v 2.4.4
+
+# define which files should have our context applied as templates
+file_templates:
+
+# vim: set ft=yaml ts=2 sw=2 sts=2 et ai :
