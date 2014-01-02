@@ -5,5 +5,7 @@ template_description:
 
 # define which files should have our context applied as templates
 file_templates:
+  - public/app/Config/database.php.default
+  - public/app/Config/email.php.default
 
 # vim: set ft=yaml ts=2 sw=2 sts=2 et ai :
